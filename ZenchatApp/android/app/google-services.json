@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182235171680",
+    "firebase_url": "https://any-name-9c55d.firebaseio.com",
+    "project_id": "any-name-9c55d",
+    "storage_bucket": "any-name-9c55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182235171680:android:20bf2a52840d2fc1402c05",
+        "android_client_info": {
+          "package_name": "com.zenchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182235171680-a71clh7f16pqguql0qq43f9j75m07e0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzsQSmL8j84Z0pknB4AKcFjBicYS0aR0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182235171680-a71clh7f16pqguql0qq43f9j75m07e0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
